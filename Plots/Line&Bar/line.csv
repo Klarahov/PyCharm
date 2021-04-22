@@ -1,0 +1,7 @@
+"Project","Testing Level","Automated TC %"
+Project A,UI,5
+Project A,UI,-5
+Project A,Integration,40
+Project A,Integration,-40
+Project A,Unit,90
+Project A,Unit,-90
