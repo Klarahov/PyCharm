@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
 
-# Here I am defining the heights of the pyramid. x=the base for the pyramid.
-# The optimal automation levels depends on their relation (unit 100% --> integration 67%, unit 90% --> integration 60%)
+# Calculating the heights of the pyramid. x=the base for the pyramid.
+# The optimal automation levels depends on their relation (unit 100% --> integration 67% | unit 90% --> integration 60%)
 
 data = pd.read_csv('automatedareaplot.csv')
 a = []
